@@ -1,4 +1,4 @@
-# Store Annual Report
+# Retail Store Annual Report
 
 
 ## Objective 
